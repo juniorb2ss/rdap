@@ -1,0 +1,17 @@
+{
+    "name": "jb2s/rdap",
+    "description": "The Registration Data Access Protocol (RDAP) is a computer network communications protocol standardized by a working group at the Internet Engineering Task Force in 2015, after experimental developments and thorough discussions. It is a successor to the WHOIS protocol, used to look up relevant registration data from such Internet resources as domain names, an IP addresses, and autonomous system numbers.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos",
+            "email": "juniorb2ss@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "rdap\\": "src/rdap"
+        }
+    }
+}
